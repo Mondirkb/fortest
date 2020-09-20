@@ -1,7 +1,7 @@
 ---
 title: Delete multiple Azure Active Directory applications via PowerShell
 date: 2018-09-25 00:00:00 +0000
-categories: [Tips and Tricks, Azure]
+categories: [ Azure]
 tags: [azure active directory, powershell, application, productivity]
 seo:
   date_modified: 2020-03-17 00:40:12 +0000

@@ -9,10 +9,9 @@ header-img: "/hackthebox/magic.png"
 pin: true
 ---
 ## Installation
-![image](/hackthebox/magic.png)
  [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
 
-![image tooltip here](/hackthebox/magic.png)
+![image-title-here](/hackthexbox/magic.png{:class="img-responsive"}
 ```terminal
 $ git clone git@github.com:<username>/jekyll-theme-chirpy -b master --single-branch
 ```

@@ -11,8 +11,7 @@ pin: true
 ## Installation
  [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
  
- ![image Jekyll]({{https://mondirkb.github.io/fortest/hackthebox/magic.png}}/hackthebox/magic.png )
-
+![an image alt text]({{ site.baseurl }}/hackthebox/magic.png "an image title")
 ```terminal
 $ git clone git@github.com:<username>/jekyll-theme-chirpy -b master --single-branch
 ```

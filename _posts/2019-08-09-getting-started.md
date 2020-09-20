@@ -7,7 +7,7 @@ tags: [getting started]
 pin: true
 ---
 ## Installation
-![name of the image](/hackthebox/magic.png)
+![My image Name](/hackthebox/magic.png)
 \ [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
 
 ```terminal

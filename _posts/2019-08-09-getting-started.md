@@ -6,7 +6,6 @@ categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
 ---
-<img src=" /hackthebox/magic.png " alt="">
 ## Installation
 ![image tooltip here](/hackthebox/magic.png)
 

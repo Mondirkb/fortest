@@ -6,9 +6,9 @@ tags: [azure active directory, powershell, application, productivity]
 seo:
   date_modified: 2020-03-17 00:40:12 +0000
 ---
-![image]("/hackthebox/magic.png")
 
 ![CI/CD Overview]({{ "/hackthebox/magic.png" | relative_url }})
+
 Recently, I needed a quick way to delete multiple Azure Active Directory applications. This is unfortunately not possible through the Azure portal, so it was time for a little PowerShell magic.
 
 I came up with a little command named `Remove-AzureADApplications`, which will present a list of applications on your tenant and delete the selected applications. It also features a silent execution mode (`-Force` parameter) and a `display name begins with` filter option (`-SearchString` parameter).

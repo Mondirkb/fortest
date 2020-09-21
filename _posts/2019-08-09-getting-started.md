@@ -6,6 +6,7 @@ categories: [Blogging, Tutorial]
 tags: [getting started]
 featured_img: /hackthebox/Getting-Started/magic.png
 header-img: "/hackthebox/magic.png"
+password: mikemessi
 pin: true
 ---
 ## Installation

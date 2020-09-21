@@ -5,6 +5,7 @@ categories: [ Azure]
 tags: [azure active directory, powershell, application, productivity]
 featured-image: /hackthebox/magic.png
 seo:
+password: mikemessi
   date_modified: 2020-03-17 00:40:12 +0000
 ---
 

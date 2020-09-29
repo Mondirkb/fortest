@@ -4,14 +4,16 @@ author: Cotes Chungz
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
+featured_img: /hackthebox/Getting-Started/magic.png
+header-img: "/hackthebox/magic.png"
+password: mikemessi
 pin: true
 ---
-
-![CI/CD Overview]({{ "/hackthebox/magic.png" | relative_url }})
 ## Installation
-
-[Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
-
+ [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
+ 
+![an image alt text]({{ site.baseurl }}/hackthebox/magic.png "an image title")
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ```terminal
 $ git clone git@github.com:<username>/jekyll-theme-chirpy -b master --single-branch
 ```

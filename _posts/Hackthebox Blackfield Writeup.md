@@ -1,3 +1,6 @@
+layout: home
+breadcrumb:
+  -
 label: Delete multiple Azure Active Directory applications via PowerShell
 <!doctype html>
 <html class="staticrypt-html">

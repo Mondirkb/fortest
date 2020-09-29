@@ -2,10 +2,8 @@ title: for-test
 date: 2019-09-25 00:00:00 +0000
 categories: [ htb]
 tags: [azure active directory, powershell, application, productivity]
-layout: home
-breadcrumb:
+
   -
-label: Delete multiple Azure Active Directory applications via PowerShell
 <!doctype html>
 <html class="staticrypt-html">
 <head>

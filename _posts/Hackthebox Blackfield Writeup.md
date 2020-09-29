@@ -1,9 +1,12 @@
-title: for-test
-date: 2019-09-25 00:00:00 +0000
+---
+title: for test
+date: 2012-09-25 00:00:00 +0000
 categories: [ htb]
 tags: [azure active directory, powershell, application, productivity]
-
-  -
+featured-image: /hackthebox/magic.png
+seo:
+  date_modified: 2020-03-17 00:40:12 +0000
+---
 <!doctype html>
 <html class="staticrypt-html">
 <head>
